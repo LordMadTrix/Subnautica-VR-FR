@@ -1,4 +1,4 @@
-<Window x:Class="SubnauticaVRInstaller.MainWindow"
+<Window Icon="app.ico" x:Class="SubnauticaVRInstaller.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="SUBNAUTICA VR - Installateur SubmersedVR 6DOF &amp; DLSS (Édition Française) • LordMadTrix"
