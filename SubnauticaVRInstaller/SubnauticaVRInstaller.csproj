@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <ApplicationTitle>Subnautica VR - Installateur SubmersedVR 6DOF</ApplicationTitle>
+    <AssemblyName>SubnauticaVR-Setup</AssemblyName>
+    <RootNamespace>SubnauticaVRInstaller</RootNamespace>
+    <Version>1.0.0</Version>
+    <Authors>LordMadTrix</Authors>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Management" Version="9.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="..\assets\vr_preview.png" Link="assets\vr_preview.png" />
+  </ItemGroup>
+</Project>

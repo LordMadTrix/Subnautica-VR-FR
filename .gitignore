@@ -1,0 +1,5 @@
+bin/
+obj/
+SetupOutput/
+*.user
+*.suo
