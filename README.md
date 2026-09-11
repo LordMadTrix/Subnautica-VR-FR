@@ -27,3 +27,21 @@ Plongez dans les profondeurs de la planète 4546B en **Réalité Virtuelle 6DOF 
 <p align="center">
   <b>Conçu et signé par LordMadTrix.</b>
 </p>
+
+---
+
+## 🥽 Guide Casque VR : Que faire une fois dans le casque ?
+
+### 1. Connexion initiale du casque au PC
+1. **Allumez votre Meta Quest 3**.
+2. Activez votre liaison **ALVR**, **Virtual Desktop** ou **Quest Link**.
+3. Entrez dans **SteamVR**.
+
+### 2. Lancement
+- Cliquez sur **🚀 LANCER EN VR** dans `SubnauticaVR-Setup.exe`.
+
+### 3. Plongée 6DOF & Pilotage des sous-marins
+- **Nage & Scanner 6DOF** : Vos mains sont équipées des gants de plongée. Pointez et scannez les créatures en orientant naturellement votre poignet.
+- **Pilotage Seamoth / Cyclops** : Posez vos mains virtuelles sur les commandes du sous-marin et saisissez-les avec la touche **Grip**.
+- **Oxygène & HUD** : L'affichage tête haute est intégré directement au masque de plongée sans obstruction visuelle.
+- **Recentrer la vue** : Maintenez le bouton **Meta** 2 secondes.
